@@ -1,0 +1,8 @@
+near login: store full access key locally
+near state: show general details of an account
+near send: sends tokens from one account to another
+near deploy: deploy a contract to the blockchain
+near dev-deploy: create a dev account & deploy a contract (TestNet)
+near call: make a contract call (change or view methods)
+near view: make a contract call (only view methods)
+near repl: launch an interactive connection to the blockchain
